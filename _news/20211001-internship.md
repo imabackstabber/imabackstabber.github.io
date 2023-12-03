@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-:thought_balloon: I began my internship at [Tencent](https://github.com/Tencent).
+:penguin: I began my internship at [Tencent](https://github.com/Tencent).
 

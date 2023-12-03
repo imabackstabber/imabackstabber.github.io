@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:thought_balloon: I began my internship at [OpenMMLab](https://github.com/open-mmlab).
+:tada: I began my internship at [OpenMMLab](https://github.com/open-mmlab).
